@@ -56,7 +56,7 @@ for line in f:
 
 f.close()
 
-# "Z" is minus the depth
+# plot "Z" is minus the depth
 
 # plotting
 plt.close('all')
